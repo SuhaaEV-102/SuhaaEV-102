@@ -67,17 +67,6 @@ drug-related data and respond to user queries.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuhaaEV-102&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaaEV-102&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
 ## 🧠 LeetCode Stats (DSA Practice)
 
 <div align="center">
